@@ -1,0 +1,27 @@
+{
+    "SchemaVersion": 1,
+    "ModName": "Initiative Variants",
+    "Tabs": [
+        {
+            "TabName": "General",
+            "TabId": "general",
+            "Settings": [
+                {
+                    "Id": "InitiativeDie",
+                    "Name": "Initiative Die",
+                    "Type": "slider_int",
+                    "Default": 8,
+                    "Tooltip": "Current Initiative die, rolled at combat start.",
+                    "Options": {
+                        "Min": 4,
+                        "Max": 100
+                    },
+                    "Handles": {
+                        "NameHandle": "InitiativeVariantsMCMSliderName",
+                        "TooltipHandle": "InitiativeVariantsMCMSliderDescription"
+                    }
+                }
+            ]
+        }
+    ]
+}

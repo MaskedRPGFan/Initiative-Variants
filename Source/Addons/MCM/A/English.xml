@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="InitiativeVariantsMCMSliderName" version="1">Initiative Die</content>
+    <content contentuid="InitiativeVariantsMCMSliderDescription" version="1">Current Initiative die, rolled at combat start.</content>
+</contentList>

@@ -6,7 +6,21 @@
 
 ## Introduction
 
-More [Initiative](https://bg3.wiki/wiki/Initiative) Variants. Vanilla is d4, this mod let you change it to d6, d8, d10, d12, d14, d16, d18, or d20.
+More [Initiative](https://bg3.wiki/wiki/Initiative) Variants. Vanilla is d4, this mod lets you change it to d6, d8, d10, d12, d14, d16, d18, or d20.
+
+In optional files you will find MCM add-on let you dynamically change Initiative die value during game to any desired value.
+
+## Optional Files
+
+Add-ons from optional files section can be used together with main file.
+
+Current list of add-ons:
+
+* ✳️ MCM — A:
+  * ➡️ Dynamic change of Initiative die using MCM. Lets you change Initiative die anytime to desired value.
+  * ➡️ Requirements: [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se) and [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162).
+
+<p align="center"><img src="https://i.postimg.cc/RFNCHPCd/MCM.png"/></p>
 
 ## Installation
 
@@ -14,7 +28,7 @@ Use only one main file: [instruction](https://bg3.wiki/wiki/Guide:Installing_Mod
 
 ## Compatibility
 
-* ✅ Base game (Patch 7, Hotfix #26).
+* ✅ Base game (Patch 7, Hotfix #28).
 
 ## Troubleshooting
 

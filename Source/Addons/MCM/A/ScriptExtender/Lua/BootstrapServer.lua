@@ -1,0 +1,1 @@
+Ext.Require("Server/Initiative_Variants.lua")
